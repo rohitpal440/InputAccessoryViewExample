@@ -1,4 +1,7 @@
-# InputAccessoryViewExample
+# InputAccessoryViewExample 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rohitpal440/InputAccessoryViewExample/blob/master/LICENSE)
+
 Example project to show how to add input accessory view in apps for iphone X and prior.
 
 
