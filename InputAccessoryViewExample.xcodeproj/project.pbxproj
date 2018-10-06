@@ -15,6 +15,8 @@
 		F93F3B84212F493C00841767 /* ChatAccessoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F93F3B83212F493C00841767 /* ChatAccessoryView.swift */; };
 		F93F3B86212F4A4300841767 /* CommonProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = F93F3B85212F4A4300841767 /* CommonProtocols.swift */; };
 		F93F3B88212F4A8E00841767 /* ChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F93F3B87212F4A8E00841767 /* ChatController.swift */; };
+		F99FCEB921688EB1009CE7A0 /* ButtonAccessoryView.xib in Resources */ = {isa = PBXBuildFile; fileRef = F99FCEB821688EB1009CE7A0 /* ButtonAccessoryView.xib */; };
+		F99FCEBB21689035009CE7A0 /* ButtonAccessoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F99FCEBA21689035009CE7A0 /* ButtonAccessoryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		F93F3B83212F493C00841767 /* ChatAccessoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatAccessoryView.swift; sourceTree = "<group>"; };
 		F93F3B85212F4A4300841767 /* CommonProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonProtocols.swift; sourceTree = "<group>"; };
 		F93F3B87212F4A8E00841767 /* ChatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatController.swift; sourceTree = "<group>"; };
+		F99FCEB821688EB1009CE7A0 /* ButtonAccessoryView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ButtonAccessoryView.xib; sourceTree = "<group>"; };
+		F99FCEBA21689035009CE7A0 /* ButtonAccessoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAccessoryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				F93F3B6D212F487F00841767 /* AppDelegate.swift */,
 				F93F3B85212F4A4300841767 /* CommonProtocols.swift */,
 				F93F3B83212F493C00841767 /* ChatAccessoryView.swift */,
+				F99FCEB821688EB1009CE7A0 /* ButtonAccessoryView.xib */,
+				F99FCEBA21689035009CE7A0 /* ButtonAccessoryView.swift */,
 				F93F3B87212F4A8E00841767 /* ChatController.swift */,
 				F93F3B80212F48F400841767 /* ChatAccessoryView.xib */,
 				F93F3B71212F487F00841767 /* Main.storyboard */,
@@ -133,6 +139,7 @@
 			files = (
 				F93F3B78212F488100841767 /* LaunchScreen.storyboard in Resources */,
 				F93F3B82212F48F400841767 /* ChatAccessoryView.xib in Resources */,
+				F99FCEB921688EB1009CE7A0 /* ButtonAccessoryView.xib in Resources */,
 				F93F3B75212F488100841767 /* Assets.xcassets in Resources */,
 				F93F3B73212F487F00841767 /* Main.storyboard in Resources */,
 			);
@@ -148,6 +155,7 @@
 				F93F3B84212F493C00841767 /* ChatAccessoryView.swift in Sources */,
 				F93F3B86212F4A4300841767 /* CommonProtocols.swift in Sources */,
 				F93F3B6E212F487F00841767 /* AppDelegate.swift in Sources */,
+				F99FCEBB21689035009CE7A0 /* ButtonAccessoryView.swift in Sources */,
 				F93F3B88212F4A8E00841767 /* ChatController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

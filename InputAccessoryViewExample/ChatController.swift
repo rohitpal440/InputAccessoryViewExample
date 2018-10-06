@@ -14,6 +14,11 @@ class ChatController: UITableViewController {
         return footerView
     }()
 
+//    lazy var messageInputView: Button! = {
+//        let footerView = ButtonAccessoryView.getView(target: self, actionName: "SEND", action: #selector(sendMessage))
+//        return footerView
+//    }()
+
     override var canBecomeFirstResponder: Bool {
         return true
     }
@@ -24,6 +29,10 @@ class ChatController: UITableViewController {
 
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
         self.becomeFirstResponder()
     }
 
